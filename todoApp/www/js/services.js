@@ -45,6 +45,6 @@ angular.module('todoApp.services',[]).factory('Todo',['$http','PARSE_CREDENTIALS
         }
     }
 }]).value('PARSE_CREDENTIALS',{
-    APP_ID: 'hszykPHdFGQxNEmIwdSQNvPLofWEluCkfpLeiuND',
-    REST_API_KEY:'foBRJuVt1bgNZ0SgTByNGUqwczlnL3nk1gB1ScX1'
+    APP_ID: 'fRBPerFw2TIAO2I5HT7fRHN2T3hprpYAhCPJ2VhW',
+    REST_API_KEY:'DBJSTPQ9nMVBJhrWOco1dVY4cEdmHcBizhNYo3v3'
 });
